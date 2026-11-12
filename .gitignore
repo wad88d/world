@@ -1,0 +1,9 @@
+# 本地私密配置：不要把密码或 API Key 提交到 GitHub
+.env
+.env.*
+!.env.example
+
+# 常见私钥与证书
+*.pem
+*.key
+*.pfx
